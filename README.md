@@ -1,6 +1,6 @@
 # Project Homunculus: Hall Effect VR Glove
 
-![Project Homunculus Logo](homunuculus.png)
+![Project Homunculus Logo](homunculus.png)
 
 A revolutionary hand-tracking VR glove utilizing Hall Effect sensors to provide accurate finger positioning and force feedback for an immersive experience. This glove enables users to interact and control robots, virtual environments, and more.
 
